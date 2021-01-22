@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/read.png</file>
+        <file>imgs/update.png</file>
+        <file>imgs/write.png</file>
+        <file>imgs/exit.png</file>
+    </qresource>
+</RCC>
